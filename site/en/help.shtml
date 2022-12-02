@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+<!--#include file='/js/g.html' -->
     <title>Midinote: help | Midinote</title>
 	<meta name="language" content="English">
     <meta name="viewport" content="width=device-width, initial-scale=1" >
@@ -105,6 +106,7 @@
   <script src="../main.js" ></script>
 </head>
 <body class="home-body">
+<!--#include file='/js/g_2.html' -->
 <div class="home-page">
     <div class="home-wrapper">
         <header class="home-header sub-page-header">

@@ -46,6 +46,7 @@
     </script>
 </head>
 <body class="home-body">
+<!--#include file='/js/g_2.html' -->
 <div class="home-page home-error-page">
     <header class="home-error-header">
         <div class="home-error-header-wrapper">

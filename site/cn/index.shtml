@@ -232,6 +232,7 @@
     </script>
 </head>
 <body class="home-body">
+<!--#include file='/js/g_2.html' -->
 <div class="home-page">
 
     <!--<div class="load-page">
@@ -706,3 +707,4 @@ s0.parentNode.insertBefore(s1,s0);
 })();
 </script>
 <!--End of Tawk.to Script-->
+</html>

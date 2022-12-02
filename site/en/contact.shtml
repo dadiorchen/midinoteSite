@@ -109,6 +109,7 @@
     </script>
 </head>
 <body class="home-body">
+<!--#include file='/js/g_2.html' -->
 <div class="home-page">
     <div class="home-wrapper">
         <header class="home-header sub-page-header">
