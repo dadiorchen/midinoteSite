@@ -347,7 +347,7 @@
 
                         <div class="main-decoration-tag position-relative">
                             <div class="main-blue-tag">
-                                <div class="main-tag-description">
+                                <div class="main-tag-description" style="display:none;">
                                     <!--#include file='/images/arrow1.svg' -->
                                     <div>SCROLL DOWN</div>
                                 </div>
