@@ -2,7 +2,7 @@
 <html>
 <head>
 <!--#include file='/js/g.html' -->
-    <title>Midinote: help | Midinote</title>
+    <title>Midinote: 帮助中心 | Midinote</title>
 	<meta name="language" content="English">
     <meta name="viewport" content="width=device-width, initial-scale=1" >
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" >
@@ -120,7 +120,7 @@
                 </div>
                 <nav class="home-nav">
                     <ul>
-                        <li class="link-about __selected">Help</li>
+                        <li class="link-about __selected">帮助</li>
                         <!--<li class="link-contact">Contact</li>
                         <li class="link-sign-up">Sign up</li>
                         <li class="link-sign-in">Sign in</li>-->
@@ -144,429 +144,433 @@
             </div>
         </header>
         <div class="sub-page-title">
-            <h1>Help Center</h1>
+            <h1>帮助中心</h1>
             <h2></h2>
         </div>
         <div class="sub-page-content">
           <div class="container">
             <ul class="list" >
-              <li><a href="#create_note" >How to create a note?</a></li>
-              <li><a href="#input_tags">How to input tags</a></li>
-              <li><a href="#define_tag">How to define a tag and how to develop my mind map structure in Midinote?</a></li>
-              <li><a href="#article" >What's the article?</a></li>
-              <li><a href="#navigation" >How to navigate between articles/tags?</a></li>
-              <li><a href="#mindmap" >What's mind map viewer and how to use it.</a></li>
-              <li><a href="#mindmap_change" >How to change the mind map?</a></li>
-              <li><a href="#search" >How to search?</a></li>
-              <li><a href="#input_picture" >How to input a picture?</a></li>
-              <li><a href="#input_quote" >How to input a quote block?</a></li>
-              <li><a href="#input_todo" >How to input a ToDo item?</a></li>
-              <li><a href="#input_link" >How to input a link?</a></li>
-              <li><a href="#input_code" >How to input a code block?</a></li>
-              <li><a href="#input_long_content" >How to input long content?</a></li>
-              <li><a href="#tag_alias" >How to use tag alias?</a></li>
-              <li><a href="#tag_trigger" >How to use tag trigger?</a></li>
-              <li><a href="#tag_name_change" >How to change a tag's name?</a></li>
+              <li><a href="#create_note" >如何创建笔记?</a></li>
+              <li><a href="#input_tags">如何输入标签?</a></li>
+              <li><a href="#define_tag">如何定义标签并且构建标签的思维导图结构?</a></li>
+              <li><a href="#article" >什么是"文档"?</a></li>
+              <li><a href="#navigation" >如何在文档(标签)之间跳转?</li>
+              <li><a href="#mindmap" >什么是"思维导图视图"以及如何使用?</a></li>
+              <li><a href="#mindmap_change" >如何编辑思维导图?</a></li>
+              <li><a href="#search" >如何搜索你想要的内容?</a></li>
+              <li><a href="#input_picture" >如何输入一张图片?</a></li>
+              <li><a href="#input_quote" >如何输入一段引用的内容?</a></li>
+              <li><a href="#input_todo" >如何输入一个待办事项(TODO)?</a></li>
+              <li><a href="#input_link" >如何输入一个网址?</a></li>
+              <li><a href="#input_code" >如何输入一段代码?</a></li>
+              <li><a href="#input_long_content" >如何输入一篇长文档?</a></li>
+              <li><a href="#tag_alias" >如何使用标签别名?</a></li>
+              <li><a href="#tag_trigger" >如何使用标签触发器?</a></li>
+              <li><a href="#tag_name_change" >如何改变标签名称?</a></li>
             </ul>
             <h3 id="create_note" >
               <a href="#create_note" >
-                How to create a note?
+                如何创建笔记?
               </a>
             </h3>
             <p>
-              To create a new note, move the mouse to the input field on the top:
+              要创建一条笔记, 移动鼠标到顶部的输入框, 如图所示:
             </p>
             <img src="../images/help/create_note.png" />
             <p>
-              Please write down the tile of this note, it should be something like: what's this note about? Or just the content of the note directly if it's short. Then strike "Enter", Midinote will create a new note for you.
+              现在请输入笔记的标题, 可以是笔记的主题, 如果是一条简单的笔记, 也可以就是笔记本身, 然后按"回车"键, Midinote将创建一条笔记, 并让你继续写完笔记内容.
             </p>
             <img src="../images/help/new_note.png" />
             <h3 id="input_tags">
               <a href="#input_tags" >
-                How to input tags
+                如何输入标签?
               </a>
             </h3>
             <p>
-              There are several different ways to input tags.
+              有几种不同的方式可以输入标签.
             </p>
             <p>
-            First, when you are writing a note, press key <span>#</span> to begin to input a tag.
+            首先, 当你写笔记时, 按"#"键, Midinote将进入标签输入模式:
             </p>
             <img src="../images/help/tag1.png" />
             <p>
-            Now keep typing the name of the tag, you can not include any <span>space</span> char in a tag name, and press <span>space</span> to finish inputting tag.
+            现在请继续输入标签名称, 标签不能包含空格, 当你输入完成标签名称后, 按"空格"完成标签输入.
             </p>
             <img src="../images/help/tag2.png" />
             <p>
-              When you are inputting tag name, Midinote will give you some suggestions if there is any.
+              当你在输入标签时, Midinote会自动给你一些输入建议.
             </p>
             <img src="../images/help/tag3.png" />
             <p>
-            To choose one of them, press <span>up</span> and <span>down</span> to change the option and press <span>Enter</span> to pick the tag.
+              要选择给出的某个建议, 按"上下方向键"选择, 按"回车"键完成选择.
             </p>
             <p>
-              Another way to input tags is by using the Tag Recommender Bar. On the top of the app, there is a rectangle area called Tag Recommender Bar. When you typing , Midinote will analyze the content, and give you some possible tag suggestions in the bar.
+              另外一个输入标签的方法是使用标签推荐栏, 在Midinote的顶部附近有一个矩形区域, 叫做标签推荐栏, 当你输入内容时, Midinote将分析内容, 并且在标签推荐栏给你一些可能的标签建议.
             </p>
             <img src="../images/help/recommender_bar.png"/>
             <p>
-              Just click the tag in the bar directly to add the tag into your notes.
+              只需要点击标签推荐栏中的标签, 就可以将标签添加到你的笔记中.
             </p>
             <p>
-              And, you can also input tag in this way:
+              还有, 你也可以这样输入标签:
             </p>
             <p>
-              Select some text in the note. Then, click the <span>#</span> icon in the toolbar. Then the text selected would become a tag.
+              选择一段文字, 然后点击工具栏中的<span>#</span>图标, 选中的文字将变成一个标签.
             </p>
             <img src="../images/help/toolbar_tag.png" />
             <h3 id="define_tag">
               <a href="#define_tag" >
-                How to define a tag? And how to duild my mind map structure in Midinote?
+                如何定义标签并且构建标签的思维导图结构?
               </a>
             </h3>
             <p>
-            In Midinote, you can build your own mind map structure by <strong>define</strong> tags. Say you have a tag 'A' and 'B', if you use 'A' to define 'B', then you created a structure that the tag B belongs to the tag A, or you can say, B is a sub-tag of A. Presented in the mind map, the B would be a branch node connected to A.
+            在Midinote中, 你可以通过<strong>定义</strong>标签来构建你自己的思维导图结构. 比如你有两个标签'A'和'B', 如果你用'A'来定义'B', 那么你就创建了一个结构, 标签B属于标签A, 或者你可以说, B是A的子标签. 在思维导图中, B将是一个分支节点, 连接到A.
             </p>
             <p>
-              To do so, first, let's show you how to define a tag. To define a tag, move the mouse to the tag that you want to define. Stay for a while, a tooltip box will appear.
+              要这么做, 首先, 让我们来看看如何定义一个标签. 要定义一个标签, 移动鼠标到你想要定义的标签上, 等待一会, 一个提示框将会出现.
             </p>
             <img src="../images/help/tooltip.png" />
             <p>
-              Click the 'gear' icon to open the Tag Setting Dialog.
+              点击'齿轮'图标打开标签设置对话框.
             </p>
             <img src="../images/help/setting_dialog.png" />
             <p>
-Find the section: "DEFINITION". Input something describing: What is this tag? Or, what is this tag about? And you can also input tags in the definition, just like you do in notes.
+              找到"定义"部分, 输入一些描述, 比如: 这个标签是什么? 或者这个标签是关于什么的? 你也可以在定义中输入标签, 就像你在笔记中做的那样.
             </p>
             <img src="../images/help/definition.png" />
             <p>
-              After defining a tag with other tags, you have defined the relationship between these tags, you will find the mind map would present this relationship.
+              当用其他标签来定义一个标签时, 你就定义了这些标签之间的关系, 你会发现思维导图将呈现这种关系.
             </p>
             <img src="../images/help/mindmap.png" />
             <p>
-              And you will find, all those notes that belong to the children tags would belong to their parents too.
+              还有, 你会发现, 所有属于子标签的笔记也属于父标签.
             </p>
             <img src="../images/help/notes.png" />
             <h3 id="article" >
               <a href="#article" >
-                What's an article?
+                什么是"文档"?
               </a>
             </h3>
             <p>
-			In Midinote, every tag is an article, so if you click a tag and entered into this tag, it means you opened the article of this tag. 
+              在Midinote中, 每个标签都是一个文档, 所以如果你点击一个标签并且进入了这个标签, 那么就意味着你打开了这个标签的文档.
             </p>
             <p>
-              As shown below, there are several elements in an article:
+              如下所示, 文档中有几个元素:
             </p>
             <img src="../images/help/article.png" />
             <p>
-            <strong>Article Title</strong>
+            <strong>文档标题</strong>
             </p>
             <p>
-              The title of current article, actually, it must be a name of a tag. In the world of Midinote, every tag is an article. You can click any tag to go into the tag's article.
+              当前文档的标题, 实际上, 它必须是一个标签的名字. 在Midinote的世界中, 每个标签都是一个文档. 你可以点击任何一个标签来进入这个标签的文档.
             </p>
             <p>
-            <strong>Article Navigator</strong>
+            <strong>文档导航器</strong>
             </p>
             <p>
-              The 'navigator' indicates the position/path to the current article. As illuminated in the figure, the current article/tag is 'B', its parent is 'A', and A's parent is a special unique tag: "Merry", it is the first tag created when you begin to use Midinote, Midinote will force you to create it, "Merry" is an example for this, you can create any first tag you want, all other tags in Midinote belong to it.
+              "文档导航器"指示当前文档的位置/路径. 如图所示, 当前文档/标签是'B', 它的父标签是'A', 而A的父标签是一个特殊的唯一标签: "Merry", 它是你开始使用Midinote时创建的第一个标签, Midinote将强制你创建它, "Merry" 是本文的样例, 你可以创建任何想要的第一标签, Midinote中的所有其他标签都属于它.
             </p>
             <p>
-            The navigator also records the history of your visiting between articles/tags. Using <img class="icon" src="../images/help/back.png" /> or <img class="icon" src="../images/help/forward.png" /> to go forward or backword.
+            导航器还记录了你在文档/标签之间访问的历史记录. 使用<img class="icon" src="../images/help/back.png" /> 或者 <img class="icon" src="../images/help/forward.png" /> 来前进或者后退.
             </p>
             <p>
-            <strong>Article Description</strong>
+            <strong>文档解释区</strong>
             </p>
             <p>
-              Actually, it's the definition of the current tag.
+              实际上, 这是当前标签的定义.
             </p>
             <p>
-            <strong>Article Content</strong>
+            <strong>文档内容</strong>
             </p>
             <p>
-              All the notes that belong to this article/tag.
+              所有属于这个文档/标签的笔记.
             </p>
             <p>
-              In Midinote, if you attach a tag to a note, then, this note belongs to the tag. It will appear in the article of this tag. Also, this note will appear in all the tag's ancestors.
+              在Midinote中, 如果你给一个笔记附上一个标签, 那么这个笔记就属于这个标签. 它将出现在这个标签的文档中. 同时, 这个笔记也将出现在这个标签的所有祖先标签的文档中.
             </p>
             <p>
-            <strong>Article Graph</strong>
+            <strong>文档图表</strong>
             </p>
             <p>
-              Show articles in the form of graphs. There are two different type of graph:
+              以图表的形式显示文档. 有两种不同的图表:
             </p>
             <p>
-              Mind Map
+              思维导图
             </p>
             <img src="../images/help/mindmap2.png" />
             <p>
-              Bubble
+              泡泡图
             </p>
             <img src="../images/help/bubble.png" />
-            <p>Click icon <img class="icon" src="../images/help/mindmap_icon.png" /> or <img class="icon" src="../images/help/bubble_icon.png" /> to switch between these two graphs.
+            <p>
+              点击图标 <img class="icon" src="../images/help/mindmap_icon.png" /> 或者 <img class="icon" src="../images/help/bubble_icon.png" /> 来切换这两种图表.
+            </p>
             
             <h3 id="navigation" >
               <a href="#navigation" >
-                How to navigate between articles/tags?
+                如何在文档/标签之间跳转?
               </a>
             </h3>
             <p>
-              There are many ways to navigate between articles/tags.
+              有很多种方法来在文档/标签之间跳转.
             </p>
             <p>
-              First, articles/tags are just like a web link, we can simply jump to any articles/tags by clicking it.
+              首先, 文档/标签就像一个网页链接, 我们可以通过点击它来跳转到任何文档/标签.
             </p>
             <p>
-              Then we can click the tags on the article navigator to jump to this tag's ancestor quickly.
+              然后, 我们可以点击文档导航器中的标签来快速跳转到这个标签的祖先标签.
             </p>
             <img src="../images/help/navigator.png" />
             <p>
-              Also, the article navigator will record your recent visit history, so you can jump between your visitor history back and forth, just like what we do in the browser application, to do so, click the back or forward arrow on the left of the navigator.
+              同样, 文档导航器会记录你最近访问的历史记录, 所以你可以在你的访问历史记录中前进和后退, 就像我们在浏览器中做的那样, 要这样做, 点击导航器左边的后退或者前进箭头.
             </p>
             <p>
-              And you can put your mouse over the arrow, a history list will show.
+              还有, 你可以把鼠标放在箭头上, 一个历史记录列表将会显示.
             </p>
             <img src="../images/help/history.png" />
             <p>
-              And there is another way to go to an article/tag. Click the search box on the top right corner of the app. Input the name of the article/tag that you want to go, then click on the document/tag in the search results, or use the arrow keys on the keyboard to select the document/tag, and press Enter.
+              还有另外一种方法来跳转到一个文档/标签. 点击应用程序右上角的搜索框. 输入你想要跳转到的文档/标签的名称, 然后点击搜索结果中的文档/标签, 或者使用键盘上的方向键来选择文档/标签, 然后按回车键.
             </p>
             <img src="../images/help/searchbox.png" />
             <h3 id="mindmap" >
               <a href="#mindmap" >
-                What's mind map viewer and how to use it?
+                什么是"思维导图视图"以及如何使用?
               </a>
             </h3>
             <p>
-              There are two kinds of mind map viewer, one is on the right of the article page, one is on the page by clicking the second item in the menu bar<img class="icon" src="../images/help/mindmap_button.png" />. Both of them have similar operations.
+              有两种思维导图视图, 一种是在笔记文档的右边, 一种是在点击右侧菜单栏中的第二个按钮<img class="icon" src="../images/help/mindmap_button.png" />后打开的页面. 这两种视图的操作方式是一样的.
             </p>
             <img src="../images/help/mindmap_big.png" />
             <p>
-              By clicking every node on the mind map, we can enter this node, the viewer changes to take the clicked node/tag as the center point of the current mind map.
+              通过点击思维导图中的每一个节点, 我们可以进入这个节点, 视图将会变成以这个节点/标签为中心的思维导图.
             </p>
             <p>
-              By right-clicking the node, a menu panel will appear.
+              通过右键点击节点, 一个菜单面板将会出现.
             </p>
             <img src="../images/help/context_menu.png" />
             <p>
-              The menu items are:
+              菜单项有:
             </p>
             <p>
-              <img class="icon" src="../images/help/context_menu_setting.png" /> Open the setting dialog for this tag.  
+              <img class="icon" src="../images/help/context_menu_setting.png" /> 
+              打开这个标签的设置对话框.
             </p>
             <p>
-              <img class="icon" src="../images/help/context_menu_dive_in.png" /> Open this tag's mind map.
+              <img class="icon" src="../images/help/context_menu_dive_in.png" /> 
+              打开这个标签的思维导图.
             </p>
             <p>
-              <img class="icon" src="../images/help/context_menu_article.png" /> Open this tag's article.  
+              <img class="icon" src="../images/help/context_menu_article.png" /> 
+              打开这个标签的文档
             </p>
             <h3 id="mindmap_change" >
               <a href="#mindmap_change" >
-                How to change the mind map?
+                如何编辑思维导图?
               </a>
             </h3>
             <p>
-              You can not change the structure of the mind map on the viewer. For example, on the mind map, tag 'A' is the parent of tag 'B', you can not move the tag 'B' upward to make it become the sibling of the tag 'A'. The only way to change the structure of a mind map, is to 'define' the tag, as we discussed in the article: <a href="#define_tag" style="text-decoration: underline;" >How to define a tag?</a>
+              你不能在思维导图视图中编辑思维导图的结构. 例如, 在思维导图中, 标签'A'是标签'B'的父标签, 你不能把标签'B'向上移动, 让它成为标签'A'的兄弟标签. 唯一的方法来改变思维导图的结构, 是通过定义标签, 我们在这篇文章中讨论过: <a href="#define_tag" style="text-decoration: underline;" >如何定义一个标签?</a>
             </p>
             <p>
-              But you can change the order of those nodes under the same tag.
+              不过, 你可以改变同一个标签下的节点的顺序.
             </p>
             <p>
-            To do so, drag the ring before the tag:
+              要这么做, 拖动标签前面的圆环:
             </p>
             <img src="../images/help/ring.png" />
             <p>
-              And drop the mouse when a 'dock' icon appears.
+              然后, 当一个'停靠'图标出现时, 放开鼠标.
             </p>
             <img src="../images/help/dock.png" />
             <h3 id="search" >
               <a href="#search" >
-                How to search?
+                如何搜索?
               </a>
             </h3>
             <p>
-              To search in Midinote, click the third item in the menu bar <img class="icon" src="../images/help/search_button.png" />
+              要在Midinote中搜索, 点击菜单栏中的第三个按钮 <img class="icon" src="../images/help/search_button.png" />
             </p>
             <p>
-              Then input keywords:
+              然后输入关键词:
             </p>
             <img src="../images/help/search.png" />
             <p>
-              You can also input tags to narrow down the search result.
+              你可以输入标签来缩小搜索范围.
             </p>
             <img src="../images/help/search_tags.png" />
             <p>
-              To append additional tags as search criteria, you can also click the tag bubbles on the right.
+              你也可以点击右侧的标签气泡来添加额外的标签作为搜索条件.
             </p>
             <img src="../images/help/search_bubble.png" />
             <p>
-              And in Midinote, there are serveral special search criteria. They are:
+              在Midinote中, 有几个特殊的搜索条件. 它们是:
             </p>
             <img src="../images/help/search_special_tags.png" />
-            <p><strong>Created time</strong></p>
+            <p><strong>创建时间</strong></p>
             <p>
-              To search notes created within a specified time range.
+              搜索在指定时间范围内创建的笔记.
             </p>
             <p><strong>ToDo</strong></p>
             <p>
-              To search notes containing ToDo items.
+              搜索包含ToDo项目的笔记.
             </p>
-            <p><strong>Picture</strong></p>
+            <p><strong>图片</strong></p>
             <p>
-              To search notes containing pictures.
+              搜索包含图片的笔记.
             </p>
-            <p><strong>Link</strong></p>
+            <p><strong>链接</strong></p>
             <p>
-              To search notes containing web links.
+              搜索包含链接的笔记.
             </p>
-            <p><strong>Document</strong></p>
+            <p><strong>文档</strong></p>
             <p>
-              To search notes containing long-content document.
+              搜索包含长内容文档的笔记.
             </p>
-            <p><strong>Quote</strong></p>
+            <p><strong>引用</strong></p>
             <p>
-              To search notes containing quote block.
+              搜索包含引用块的笔记.
             </p>
-            <p><strong>Code</strong></p>
+            <p><strong>代码</strong></p>
             <p>
-              To search notes containing code block.
+              搜索包含代码块的笔记.
             </p>
             <h3 id="input_picture" >
               <a href="#input_picture" >
-                How to input a picture?
+                如何输入图片?
               </a>
             </h3>
             <p>
-            To input a picture at the current cursor position, click the icon <img class="icon" src="../images/help/input_picture.png" /> on the toolbar, a picture-picking dialog will show up, then select a picture to add to the note.
+            要在当前光标位置输入图片, 点击工具栏上的 <img class="icon" src="../images/help/input_picture.png" /> 图标, 一个图片选择对话框会出现, 选择一个图片添加到笔记中.
             </p>
             <p>
-              You can also input a picture just like inputting a tag, to do so, type '#pic' then press 'space' key, then the picture-picking dialog will show up to let you select a picture. 
+              你也可以像输入标签一样输入图片, 要这么做, 输入'#pic'然后按下空格键, 一个图片选择对话框会出现, 选择一个图片添加到笔记中.
             </p>
             <h3 id="input_quote" >
               <a href="#input_quote" >
-                How to input a quote block?
+                如何输入引用块?
               </a>
             </h3>
             <p>
-            To input a quote block at current cursor location, click the icon <img class="icon" src="../images/help/input_quote.png" /> on the toolbar, an empty quote block will appear:
+            要在当前光标位置输入引用块, 点击工具栏上的 <img class="icon" src="../images/help/input_quote.png" /> 图标, 一个空的引用块会出现:
             </p>
             <img src="../images/help/input_quote_block.png" />
             <p>
-            Click icon <img class="icon" src="../images/help/input_quote_ok.png" /> on the top right corner of the quote block box to finish and save your input. Or click icon <img class="icon" src="../images/help/input_quote_delete.png" /> to cancel this input.
+            点击引用块右上角的 <img class="icon" src="../images/help/input_quote_ok.png" /> 图标来完成输入并保存. 或者点击 <img class="icon" src="../images/help/input_quote_delete.png" /> 图标来取消输入.
             </p>
             <p>
-              You can also input a quote block just like inputing a tag, to do so, type '#quote' then press 'space' key.
+              你也可以像输入标签一样输入引用块, 要这么做, 输入'#quote'然后按下空格键.
             </p>
             <h3 id="input_todo" >
               <a href="#input_todo" >
-                How to input a ToDo item?
+                如何输入ToDo项目?
               </a>
             </h3>
             <p>
-            To input a ToDo item at the current cursor position, click the icon <img class="icon" src="../images/help/input_todo.png" /> on the toolbar, then an ToDo item will appear:
+            要在当前光标位置输入ToDo项目, 点击工具栏上的 <img class="icon" src="../images/help/input_todo.png" /> 图标, 一个空的ToDo项目会出现:
             </p>
             <img src="../images/help/todo_note.png" />
             <p>
-              You can click the ToDo item to check or un-check the ToDo item.
+              你可以点击ToDo项目来完成或取消完成ToDo项目.
             </p>
             <img src="../images/help/todo_note_checked.png" />
             <p>
-              You can also input a ToDo item just like inputting a tag, to do so, type '#todo' then press 'space' key.
+              你也可以像输入标签一样输入ToDo项目, 要这么做, 输入'#todo'然后按下空格键.
             </p>
             <h3 id="input_link" >
               <a href="#input_link" >
-                How to input a link?
+                如何输入链接?
               </a>
             </h3>
             <p>
-              To input a link at the current cursor, click the icon <img class="icon" src="../images/help/input_link.png" /> on the toolbar, then a dialog will appear:
+              要在当前光标位置输入链接, 点击工具栏上的 <img class="icon" src="../images/help/input_link.png" /> 图标, 一个链接输入对话框会出现:
             </p>
             <img src="../images/help/input_link_dialog.png" />
             <p>
-              Input the link URL address in the URL field.
+              输入链接的URL地址到URL字段.
             </p>
             <p>
-              In the name field, input the text that you want to display in the note for this link.
+              在名称字段, 输入你想在笔记中显示的链接文本.
             </p>
             <img src="../images/help/input_link_demo.png" />
             <p>
-              You can also input a link just like inputting a tag, to do so, type '#link' then press 'space' key.
+              你可以像输入标签一样输入链接, 要这么做, 输入'#link'然后按下空格键.
             </p>
             <h3 id="input_code" >
               <a href="#input_code" >
-                How to input a code block?
+                如何输入代码块?
               </a>
             </h3>
             <p>
-              To input a code block at the current cursor position, click the icon <img class="icon" src="../images/help/input_code.png" /> on the toolbar, then an empty code block will appear:
+              要在当前光标位置输入代码块, 点击工具栏上的 <img class="icon" src="../images/help/input_code.png" /> 图标, 一个空的代码块会出现:
             </p>
             <img src="../images/help/input_code_block.png" />
             <p>
-            Just input the code, and click icon <img class="icon" src="../images/help/input_quote_ok.png" /> to finish the input or <img class="icon" src="../images/help/input_quote_delete.png" /> to cancel it.
+            输入代码, 然后点击 <img class="icon" src="../images/help/input_quote_ok.png" /> 图标来完成输入或者点击 <img class="icon" src="../images/help/input_quote_delete.png" /> 图标来取消输入.
             </p>
             <p>
-              You can also input a code block just like inputting a tag, to do so, type '#code' then press 'space' key.
+              你可以像输入标签一样输入代码块, 要这么做, 输入'#code'然后按下空格键.
             </p>
             <h3 id="input_long_content" >
               <a href="#input_long_content" >
-                How to input long content?
+                如何输入长内容?
               </a>
             </h3>
             <p>
-              Because Midinote limit the length of content for a single note (2000 maximum characters), so to input content exceeding the limitation, we can add a document tag into the note.
+              因为Midinote限制了单个笔记的内容长度(最多2000个字符), 所以如果你想输入超过这个限制的内容, 你可以在笔记中添加一个文档标签.
             </p>
             <p>
-            To do so, click icon <img class="icon" src="../images/help/input_document.png" />, then a document editor will appear:
+            要这样做, 点击 <img class="icon" src="../images/help/input_document.png" /> 图标, 一个文档编辑器会出现:
             </p>
             <img src="../images/help/input_document_demo.png" />
             <p>
-              You can also input a document just like inputting a tag, to do so, type '#doc' then press 'space' key.
+              你可以像输入标签一样输入文档, 要这么做, 输入'#doc'然后按下空格键.
             </p>
             <h3 id="tag_alias" >
               <a href="#tag_alias" >
-                How to use tag alias?
+                如何使用标签别名?
               </a>
             </h3>
             <p>
-            Sometimes, there are several different possible names for a tag, for example, Javascript and JS are the same. So we can use tag <strong>alias</strong> to make it possible.
+            有些时候, 一个标签有多个不同的名称, 例如, Javascript和JS是同一个标签. 所以我们可以使用标签别名来解决这个问题.
             </p>
             <p>
-              To do so, for example, we have had a tag named 'Javascript', now we want to add an alias 'JS' for this tag, first, open the Tag Setting Dialog, then find the section 'ALIAS':
+              要这么做, 例如, 我们有一个名为'Javascript'的标签, 现在我们想为这个标签添加一个别名'JS', 首先, 打开标签设置对话框, 然后找到'别名'部分:
             </p>
             <img src="../images/help/alias.png" />
             <p>
-              Input the alias name. You can input multiple alias names for a tag.
+              输入别名. 你可以为一个标签输入多个别名.
             </p>
             <p>
-              Now you can use this alias, input the tag 'JS' into your note, by doing so, actually, you are inputting tag 'Javascript' that is displayed with the alias name 'JS'.
+              现在你可以使用这个别名, 在你的笔记中输入标签'JS', 这样做的话, 实际上, 你输入的是标签'Javascript', 但是显示的是别名'JS'.
             </p>
             <h3 id="tag_trigger" >
               <a href="#tag_trigger" >
-                How to use tag trigger?
+                如何使用标签触发器?
               </a>
             </h3>
             <p>
-              Tag trigger is a function to help you input a tag, for example, you have a tag called 'account', you use it to record your all kinds fo account and password. Then you might want to add a trigger called 'password' for you to remind you of the 'account' tag.
+              标签触发器是一个帮助你输入标签的功能, 例如, 你有一个名为'账户'的标签, 你使用它来记录你所有的账号和密码. 然后你可能想为它添加一个触发器'密码', 当你输入'密码'的时候, 它会提醒你输入'账户'标签.
             </p>
             <p>
-              Say we already have a tag called 'account' in Midinote, to set a trigger, open the tag's Setting Dialog, find the 'TRIGGER' section:
+              假设我们已经在Midinote中有一个名为'账户'的标签, 要设置一个触发器, 打开标签的设置对话框, 找到'触发器'部分:
             </p>
             <img src="../images/help/trigger.png" />
             <p>
-              Input the trigger name 'password'. Then turn to the note editor, and input some words including 'password'. Please note the Tag Recommender Bar on the top right corner. A tag 'account' appears on it. And if you click it, the tag 'account' would be inserted into this note.
+              输入触发器名称'密码'. 然后转到笔记编辑器, 输入一些包含'密码'的文字. 请注意右上角的标签推荐栏. 一个标签'账户'出现在上面. 如果你点击它, 标签'账户'会被插入到这个笔记中.
             </p>
             <img src="../images/help/trigger_demo.png" />
             <h3 id="tag_name_change" >
               <a href="#tag_name_change" >
-                How to change a tag's name?
+                如何修改标签的名称?
               </a>
             </h3>
             <p>
-              To change a tag name, open the Tag Setting Dialog, click 'edit' on the top of the dialog, then input a new name for this tag, NOTE you can not input any tag name that already exists.
-                
+              要修改标签的名称, 打开标签设置对话框, 点击对话框顶部的'编辑'按钮, 然后输入一个新的名称. 注意, 你不能输入已经存在的标签名称.
             </p>
             <img src="../images/help/edit_name.png" />
           </div>
           <div class="end">
-            - END -
+            - 没有更多内容了 -
           </div>
         </div>
         <footer class="footer">
@@ -578,10 +582,10 @@ Find the section: "DEFINITION". Input something describing: What is this tag? Or
                     </div>
 
                     <div class="site-links">
-                        <a class="link-about __selected">About us</a>
+                        <a class="link-about __selected">帮助</a>
                         <!--<a class="link-help">Help center</a>-->
-                        <a class="link-service" href="/en/service.shtml">Terms of service</a>
-                        <a class="link-privacy" href="/en/privacy.shtml">Privacy</a>
+                        <a class="link-service" href="/cn/service.shtml">服务条款</a>
+                        <a class="link-privacy" href="/cn/privacy.shtml">隐私</a>
                     </div>
 
                     <div class="contact">
@@ -597,7 +601,7 @@ Find the section: "DEFINITION". Input something describing: What is this tag? Or
                     </div>
                 </div>
 
-                <div class="site-register">© 2018-2022 Midinote Inc. All rights reserved.</div>
+                <div class="site-register">© 2018-2022 Midinote Inc. 保留所有权利.</div>
             </div>
             <!--<div class="site-register">© 2018-2022 Midinote Inc. All rights reserved.</div>-->
         </footer>
