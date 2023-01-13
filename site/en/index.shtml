@@ -339,10 +339,10 @@
                         </div>
                         <h1 class="main-title">
                             <span>MIDINOTE,</span>
-                            <span>ANOTHER WAY TO TAKE NOTES</span>
+                            <span>A NEW WAY TO TAKE NOTES</span>
                         </h1>
                         <h2 class="main-sub-title">
-							Only Evernote? We are different, we use fully tag-based system to organize your notes, to record your memory in a well-organized, brain-like and visual way.
+                            100% tag-based note-taking app, innovative tag-define system, record your knowledge quick, natural, and well-organized
                         </h2>
 
                         <div class="main-decoration-tag position-relative">
@@ -378,13 +378,10 @@
 
                 <div class="content-left">
                     <div class="explanation position-relative">
-                        <h3>Fully Tag-Based</h3>
+                        <h3>100% Tag-Based</h3>
                         <p>
-							Traditional apps use folders to organize notes, like Evernote, this approach requires you to spend tons of time to organize your notes, thinking which folder to put your notes in, or everything will end up with a mess.  
+                            Discard the traditional folder concept, only use tags to organize notes, faster and support multi-classification
                         </p>
-						<p>
-							In Midinote, we use tag-based system to classify content, it brings you a quick, well-organized way to take notes.
-						</p>
                         <div class="shape-decoration rectangle2"></div>
                     </div>
                 </div>
@@ -409,9 +406,8 @@
                     <div class="explanation position-relative">
                         <h3>Mindmap & Visualization</h3>
                         <p>
-							With time, your tags will grow up into a Mindmap tree, and you can recall your memory in a visual way. 
+                            Based on our innovative tag-define system, accumulate your knowlege in a natural, well-organized way, can be visualized as a mindmap.
                         </p>
-
 						<!--
                         <div class="learn-more">
                             <div class="learn-more-button position-relative">
@@ -444,12 +440,14 @@
 
                 <div class="content-left">
                     <div class="explanation position-relative">
-                        <h3>Personal Knowledge-Base</h3>
+                        <h3>
+                            Your Personal Encyclopedia
+                        </h3>
                         <p>
-							In Midinote, every tag is an article, or, if you are familiar with <a style='text-decoration : underline;' href='http://en.wikipedia.org' target='_blank' >Wikipedia</a>, every tag is an entry of encyclopedia, you can browse and jump back and forth between tags, just like you do in the web browser. 
+                            Every tag is a <a style='text-decoration : underline;' href='http://wikipedia.org' target='_blank' >Wikipedia</a> entry, you can browse and jump between tags. 
 						</p>
 						<p>
-							With Midinote, you are building a personal knowledge base.
+                            With Midinote, you are building your personal encyclopedia.
                         </p>
 						<!--
                         <div class="learn-more">
@@ -481,9 +479,9 @@
 
                 <div class="content-right">
                     <div class="explanation position-relative">
-                        <h3>Support 100% Off-line Use</h3>
+                        <h3>Fully Supports Offline Use</h3>
                         <p>
-							You can use all Midinote's functionalities anytime and anywhere , even without Internet connection, and Midinote promise never to analyze user's private data.
+							You can use all Midinote's functionalities anytime anywhere , even without a Internet connection, and Midinote promise never to analyze user's private data.
                         </p>
 						<!--
                         <div class="learn-more">
@@ -512,7 +510,7 @@
         <div id="home-sign-in-part" class="home-bottom">
             <div class="home-bottom-wrapper position-relative">
                 <div class="home-sign-up-form">
-                    <h2 class="home-form-title"><a href="#signUp" name="signUp" >Create your Midinote account</a></h2>
+                    <h2 class="home-form-title"><a href="#signUp" name="signUp" >Try Midinote in 30 seconds</a></h2>
                     <div class="home-form-announce">
                        Already have an account? <a href="http://app.midinote.me" target="blank" >Sign in</a>
                     </div>
@@ -520,15 +518,15 @@
                         <div class="home-form-inputs">
                             <div>
                                 <div class="form-message form-message-name"></div>
-                                <input class="user-email" type='text' placeholder="email address" name="user-name" value=''  />
+                                <input class="user-email" type='text' placeholder="input your email address" name="user-name" value=''  />
                             </div>
 
                             <div>
                                 <div class="form-message form-message-psw"></div>
-                                <input class="user-psw" type="password" placeholder="password" name="psw" />
+                                <input class="user-psw" type="password" placeholder="set your password" name="psw" />
                             </div>
                         </div>
-                        <div class="home-form-button"><span>Create an account</span></div>
+                        <div class="home-form-button"><span>Sign Up and Open Midinote</span></div>
                     </div>
                     <div class="home-form-announce">
                         By creating an account, you agree to our <a href="service.shtml">term of service</a> and <a href="privacy.shtml">privacy statement</a>.
