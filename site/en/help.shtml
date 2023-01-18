@@ -150,8 +150,8 @@
         <div class="sub-page-content">
           <div class="container">
             <ul class="list" >
-              <li><a href="#create_note" >How to create a note?</a></li>
-              <li><a href="#input_tags">How to input tags</a></li>
+              <li><a href="#create_note" >How to create note?</a></li>
+              <li><a href="#input_tags">How to input tag?</a></li>
               <li><a href="#define_tag">How to define a tag and how to develop my mindmap structure in Midinote?</a></li>
               <li><a href="#article" >What is article?</a></li>
               <li><a href="#navigation" >How to navigate between articles/tags?</a></li>
@@ -170,7 +170,7 @@
             </ul>
             <h3 id="create_note" >
               <a href="#create_note" >
-                How to create a note?
+                How to create note?
               </a>
             </h3>
             <p>
@@ -183,7 +183,7 @@
             <img src="../images/help/new_note.png" />
             <h3 id="input_tags">
               <a href="#input_tags" >
-                How to input tags
+                How to input tag?
               </a>
             </h3>
             <p>
