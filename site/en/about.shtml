@@ -151,22 +151,22 @@
             <div class="sub-page-content-wrapper">
                 <h4>Who We Are?</h4>
                 <p class="sub-page-content-p">
-                We used to be deep users of <a class="common-link-in-content" href='https://evernote.com/' target='_blank' >Evernote</a>, but when the number of notes getting bigger and bigger, we found we need to spend a lot of time organizing the notes, or everything will end up with a mess.
-                    Therefore, we started to develop a new type of notebook app and created Midinote.
+                We used to be deep users of <a class="common-link-in-content" href='https://evernote.com/' target='_blank' >Evernote</a>, but when the number of notes getting bigger and bigger, we found we were spending a lot of time organizing the notes, or everything ends up with a mess. There are other options for note-taking but none satisfy us.
+                    Therefore, we started to develop a new type of notebook app and created Midinote, if you are interested in the thoughts and design behind Midinote, please check <a class="common-link-in-content" href="https://midinote.medium.com/the-story-of-midinote-2da0003857b6" >this blog article</a>.
                 </p>
                 <h4>About the Name: Midinote</h4>
                 <p class="sub-page-content-p">
                     The name comes from the philosopher Sartre's story.
                     </br>In a biography of Sartre (<a class="common-link-in-content" href="https://www.amazon.com/Adieux-Farewell-Sartre-Simone-Beauvoir/dp/039472898X?keywords=Sartre+Beauvoir&qid=1540814263&s=Books&sr=1-2&ref=sr_1_2" target="_blank">Adieux: A Farewell to Sartre</a>),
                     he told a story about his notebook, he says, one day, he accidentally found a notebook on a metro train, a blank notebook with alphabetical tabs.
-                    So he used it to record some of his thoughts on it,
-                    if one note that he wants to write down starts with letter 'A',
+                    So he used it to record some of his thoughts,
+                    if a note that he wants to write down starts with the letter 'A',
                     then he writes it on pages under the 'A' tab. This is how he organizes his notes.
                     So, in this simple notebook,
-                    Sartre wrote down his famous thoughts of the Existentialism.
+                    Sartre wrote down his famous thoughts on Existentialism.
                     Sartre mentioned that there are some weird words on the cover of the notebook: "Midi Suppositories".
-                    That's the story. 
-                    So we hope our Midinote is such a simple but useful thing. Please give Midinote a try, it is waiting you to write down your big thoughts!
+                    That's the story. Midinote's tag system is kind of like the tab of the notebook, working as an index of your things.  
+                    We hope our Midinote is such a simple but useful thing. Please give Midinote a try, it is waiting for you to write down your big thoughts!
                 </p>
                 <p class="sub-page-content-p">
                     If you have any questions or ideas,
@@ -179,7 +179,6 @@
                     follow us:
 					<a class="social-link-in-content" href="https://twitter.com/midinote" target="_blank" ><!--#include file='/images/twitter-logo.svg' --></a>
                     <a class="social-link-in-content" href="https://www.facebook.com/MidinoteHQ" target="_blank" ><!--#include file='/images/fb-logo.svg' --></a>
-                    <a class="social-link-in-content" href="https://weibo.com/midinote" target="_blank" ><!--#include file='/images/wb-logo.svg' --></a>
                 </div>
             </div>
         </div>
