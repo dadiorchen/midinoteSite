@@ -505,6 +505,12 @@
 
             </div>
 
+            <div class="content-left" style="text-align: center; color: #4a8cf3;">
+                <div class="explanation position-relative">
+                    <h3 style="line-height: inherit;">It's FREE! During the Beta test period, Midinote is <br>
+                    permanently free for all registered users</h3>
+                </div>
+            </div>
         </div>
 
         <div id="home-sign-in-part" class="home-bottom">

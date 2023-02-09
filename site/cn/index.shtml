@@ -473,13 +473,18 @@
                 </div>
 
             </div>
+            <div class="content-left" style="text-align: center; color: #4a8cf3;">
+                <div class="explanation position-relative">
+                    <h3>完全免费! Midinote在Beta测试期间, 对所有注册用户永久免费</h3>
+                </div>
+            </div>
 
         </div>
 
         <div id="home-sign-in-part" class="home-bottom">
             <div class="home-bottom-wrapper position-relative">
                 <div class="home-sign-up-form">
-                    <h2 class="home-form-title">30秒开始体验Midinote</h2>
+                    <h2 class="home-form-title">30秒开始体验Midinote </h2>
                     <div class="home-form-announce">
                        已经注册?请直接<a href="http://app.midinote.me" target="blank" >登录</a>
                     </div>
