@@ -310,7 +310,7 @@
                             <!--#include file='/images/hash-blue.svg' -->
                         </div>
                         <h1 class="main-title">
-                            <span>Midinote,</span>
+                            <span>Midinote<span style="display: contents;font-size: 0.17rem;color:red;">beta</span>,</span>
                             <span>记笔记新方法</span>
                         </h1>
 

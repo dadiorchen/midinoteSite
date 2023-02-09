@@ -338,7 +338,7 @@
                             <!--#include file='/images/hash-blue.svg' -->
                         </div>
                         <h1 class="main-title">
-                            <span>MIDINOTE,</span>
+                            <span>MIDINOTE<span style="display: contents;font-size: 0.17rem;color:red;"></span>beta</span>,</span>
                             <span>A NEW WAY TO TAKE NOTES</span>
                         </h1>
                         <h2 class="main-sub-title">
