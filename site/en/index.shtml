@@ -349,7 +349,7 @@
                             <div class="main-blue-tag">
                                 <div class="main-tag-description" >
                                     <!--#include file='/images/arrow1.svg' -->
-                                    <div>SCROLL DOWN</div>
+                                    <div><a style="cursor:pointer" onclick="javascript:window.scrollBy({top: window.innerHeight,left: 100,behavior: 'smooth'});">SCROLL DOWN</a></div>
                                 </div>
 
                                 <div class="tag-top"></div>

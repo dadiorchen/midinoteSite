@@ -323,7 +323,7 @@
                             <div class="main-blue-tag">
                                 <div class="main-tag-description" >
                                     <!--#include file='/images/arrow1.svg' -->
-                                    <div>向下浏览</div>
+                                    <div><a style="cursor:pointer" onclick="javascript:window.scrollBy({top: window.innerHeight,left: 100,behavior: 'smooth'});">向下浏览</a></div>
                                 </div>
 
                                 <div class="tag-top"></div>
