@@ -310,7 +310,7 @@
                             <!--#include file='/images/hash-blue.svg' -->
                         </div>
                         <h1 class="main-title">
-                            <span>Midinote<span style="display: contents;font-size: 0.17rem;color:red;">beta</span>,</span>
+                            <span>Midinote<span style="display: contents;font-size: 0.17rem;color:red;">beta</span></span>
                             <span>记笔记新方法</span>
                         </h1>
 
@@ -321,7 +321,7 @@
 
                         <div class="main-decoration-tag position-relative">
                             <div class="main-blue-tag">
-                                <div class="main-tag-description" style="display:none;">
+                                <div class="main-tag-description" >
                                     <!--#include file='/images/arrow1.svg' -->
                                     <div>向下浏览</div>
                                 </div>

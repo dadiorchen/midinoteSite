@@ -338,7 +338,7 @@
                             <!--#include file='/images/hash-blue.svg' -->
                         </div>
                         <h1 class="main-title">
-                            <span>MIDINOTE<span style="display: contents;font-size: 0.17rem;color:red;">beta</span>,</span>
+                            <span>MIDINOTE<span style="display: contents;font-size: 0.17rem;color:red;">beta</span></span>
                             <span>A NEW WAY TO TAKE NOTES</span>
                         </h1>
                         <h2 class="main-sub-title">
@@ -347,7 +347,7 @@
 
                         <div class="main-decoration-tag position-relative">
                             <div class="main-blue-tag">
-                                <div class="main-tag-description" style="display:none;">
+                                <div class="main-tag-description" >
                                     <!--#include file='/images/arrow1.svg' -->
                                     <div>SCROLL DOWN</div>
                                 </div>
