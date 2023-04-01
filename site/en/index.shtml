@@ -637,7 +637,7 @@
         USER_REGISTER_EMAIL_REQUIRED	: 'Please input your email address',
         USER_REGISTER_EMAIL_FORMAT	: 'The email format is bad',
         USER_REGISTER_PASSWORD_REQUIRED	: 'Please input your password',
-        USER_REGISTER_PASSWORD_FORMAT	: 'The password format is bad',
+        USER_REGISTER_PASSWORD_FORMAT	: 'Password should be 6-20 letters + numbers',
         USER_REGISTER_EMAIL_EXISTS	: 'The email already exists',
     }
     $('.home-form-button').click(function(){
