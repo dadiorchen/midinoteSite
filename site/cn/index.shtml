@@ -678,7 +678,7 @@
                     googleConversion()
                         .then(() => {
                             console.log("google conversion done");
-                            const url	= `${HOST_URL}/login?k=${userCode._id}`
+                            const url	= `${HOST_URL}/#/login?k=${userCode._id}`
                             console.log('will jump to :',url)
                             document.location = url
                         })
